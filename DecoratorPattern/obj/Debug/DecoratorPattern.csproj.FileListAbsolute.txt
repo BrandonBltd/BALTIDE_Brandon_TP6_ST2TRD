@@ -1,0 +1,6 @@
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/bin/Debug/DecoratorPattern.exe
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/bin/Debug/DecoratorPattern.pdb
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/obj/Debug/DecoratorPattern.csprojAssemblyReference.cache
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/obj/Debug/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/obj/Debug/DecoratorPattern.exe
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/DecoratorPattern/obj/Debug/DecoratorPattern.pdb

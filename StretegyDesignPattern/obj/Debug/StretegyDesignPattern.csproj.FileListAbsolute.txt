@@ -1,0 +1,6 @@
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/bin/Debug/StretegyDesignPattern.exe
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/bin/Debug/StretegyDesignPattern.pdb
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/obj/Debug/StretegyDesignPattern.csprojAssemblyReference.cache
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/obj/Debug/StretegyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/obj/Debug/StretegyDesignPattern.exe
+/Users/brandonbaltide/RiderProjects/BALTIDE_Brandon_TP5_ST2TRD/StretegyDesignPattern/obj/Debug/StretegyDesignPattern.pdb
